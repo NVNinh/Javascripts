@@ -1,0 +1,7 @@
+{
+  "name": "BasicWebsever",
+  "version": "0.0.1",
+  "dependencies": {
+    "highlight.js": "^9.12.0"
+  }
+}
